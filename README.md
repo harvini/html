@@ -1,2 +1,2 @@
-# html
+# html/css
 epam task
